@@ -2,13 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5de27408-feb0-4475-b1cf-46b6ef89f905" name="Default Changelist" comment="add page">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/5商.md" beforeDir="false" afterPath="$PROJECT_DIR$/book/5商.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/BookList.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/BookList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Company.md" beforeDir="false" afterPath="$PROJECT_DIR$/book/Company.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Finance.md" beforeDir="false" afterPath="$PROJECT_DIR$/book/Finance.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Live.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/Live.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Movies.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/Movies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Movies/JP.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/Movies/JP.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Movies/JP.md" beforeDir="false" afterPath="$PROJECT_DIR$/book/Movies/JP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Music/H/H.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/Music/H/H.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Music/H/H.md" beforeDir="false" afterPath="$PROJECT_DIR$/book/Music/H/H.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Personal.md" beforeDir="false" afterPath="$PROJECT_DIR$/book/Personal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Tenet.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/Tenet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Tools/Tools.md" beforeDir="false" afterPath="$PROJECT_DIR$/book/Tools/Tools.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/fonts/fontawesome/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/fonts/fontawesome/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/fonts/fontawesome/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/fonts/fontawesome/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/fonts/fontawesome/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-chart/c3/c3.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-chart/c3/c3.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-chart/c3/c3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-chart/c3/c3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-chart/c3/d3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-chart/c3/d3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-chart/highcharts/highcharts.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-chart/highcharts/highcharts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-disqus/plugin.css" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-disqus/plugin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-disqus/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-disqus/plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-donate/plugin.css" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-donate/plugin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-donate/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-donate/plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-fontsettings/fontsettings.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-fontsettings/fontsettings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-fontsettings/website.css" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-fontsettings/website.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-highlight/ebook.css" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-highlight/ebook.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-highlight/website.css" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-highlight/website.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-lunr/lunr.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-search/lunr.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-lunr/search-lunr.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-lunr/search-lunr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-search/lunr.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-lunr/lunr.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-search/search-engine.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-search/search-engine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-search/search.css" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-search/search.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-search/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-search/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-sharing/buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-sharing/buttons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/gitbook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/images/apple-touch-icon-precomposed-152.png" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/images/apple-touch-icon-precomposed-152.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/images/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/gitbook/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/goods.md" beforeDir="false" afterPath="$PROJECT_DIR$/book/goods.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/book/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/book/search_index.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/music_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_data.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal_data.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photo_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/photo_detail.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +60,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="65" column="25" lean-forward="true" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+            <state relative-caret-position="645">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/book/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="121" column="20" lean-forward="true" selection-start-line="121" selection-start-column="20" selection-end-line="121" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -36,6 +87,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/book/index.html" />
       </list>
     </option>
   </component>
@@ -59,6 +111,11 @@
             <path>
               <item name="act-wz.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="act-wz.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="act-wz.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="act-wz.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -95,15 +152,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606374755386</updated>
-      <workItem from="1606374762737" duration="1454000" />
+      <workItem from="1606374762737" duration="1974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1454000" />
+    <option name="totallyTimeSpent" value="1974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="3" width="1842" height="1019" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -141,8 +199,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="65" column="25" lean-forward="true" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+        <state relative-caret-position="645">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="121" column="20" lean-forward="true" selection-start-line="121" selection-start-column="20" selection-end-line="121" selection-end-column="20" />
         </state>
       </provider>
     </entry>
