@@ -1,0 +1,27 @@
+MYSQL 命令： 
+mysql -h主机地址 -u用户名 －p密码 连接MYSQL;如果刚安装好MYSQL，超级用户root是没有密码的。
+（例：mysql -h110.110.110.110 -Uroot -P123456 
+注:u与root可以不用加空格，其它也一样） 
+exit 退出MYSQL 
+mysqladmin -u用户名 -p旧密码 password 新密码 修改密码 
+grant select on 数据库.* to 用户名@登录主机 identified by "密码"; 增加新用户。（注意：和上面不同，下面的因为是MYSQL环境中的命令，所以后面都带一个分号作为命令结束符） 
+show databases; 显示数据库列表。刚开始时才两个数据库：mysql和test。mysql库很重要它里面有MYSQL的系统信息，我们改密码和新增用户，实际上就是用这个库进行操作。 
+use mysql；
+show tables; 显示库中的数据表 
+describe 表名; 显示数据表的结构 
+create database 库名; 建库 
+use 库名；
+create table 表名 (字段设定列表)； 建表 
+drop database 库名; 
+drop table 表名； 删库和删表 
+delete from 表名; 将表中记录清空 
+select * from 表名; 显示表中的记录 
+mysqldump --opt school>school.bbb 备份数据库：（命令在DOS的mysqlin目录下执行）;注释:将数据库school备份到school.bbb文件，school.bbb是一个文本文件，文件名任取，打开看看你会有新发现。 
+win2003系统下新增命令（实用部份）： 
+shutdown /参数 关闭或重启本地或远程主机。
+参数说明：/S 关闭主机，/R 重启主机， /T 数字 设定延时的时间，范围0～180秒之间， /A取消开机，/M //IP 指定的远程主机。
+例：shutdown /r /t 0 立即重启本地主机（无延时） 
+taskill /参数 进程名或进程的pid 终止一个或多个任务和进程。
+参数说明：/PID 要终止进程的pid,可用tasklist命令获得各进程的pid，/IM 要终止的进程的进程名，/F 强制终止进程，/T 终止指定的进程及他所启动的子进程。 
+tasklist 显示当前运行在本地和远程主机上的进程、服务、服务各进程的进程标识符(PID)。
+参数说明：/M 列出当前进程加载的dll文件，/SVC 显示出每个进程对应的服务，无参数时就只列出当前的进程。
