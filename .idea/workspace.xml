@@ -2,7 +2,116 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5de27408-feb0-4475-b1cf-46b6ef89f905" name="Default Changelist" comment="add page">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/5商.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/BookList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Company.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Finance.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/CMD/CMD命令大全.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/CMD/FTP命令行.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/CMD/IIS命令行.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/CMD/MYSQL 命令行.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/CMD/Windows CMD.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/CMD/ftp命令.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/CMD/常用cmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/Linux配置php服务器环境.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/centos6-7重启命令.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/linux ftp wget file.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/linux links浏览访问网络网页文件.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/linux phpstudy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/linux redis安装.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/linux 新老版本启动服务.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/linux.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/linux查找、查看软件安装路径.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/wget 爬虫.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/下载网页视频转码为mp4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Linux/常用centos6-7命令.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Movies.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Movies/JP.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Movies/JP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Music/H/H.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Music/H/H.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Personal.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Program/Git.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Program/Git.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Program/Linux.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Program/Linux.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Program/SQLite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Program/SQLite.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Program/Windows.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Program/Windows.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Program/ffmpeg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Program/ffmpeg.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Program/mysql.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Program/mysql.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Program/redis.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Program/redis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/README.en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Tenet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Tools/Tools.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/fonts/fontawesome/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/fonts/fontawesome/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/fonts/fontawesome/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/fonts/fontawesome/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/fonts/fontawesome/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-chart/c3/c3.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-chart/c3/c3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-chart/c3/d3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-chart/highcharts/highcharts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-disqus/plugin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-disqus/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-donate/plugin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-donate/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-fontsettings/fontsettings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-fontsettings/website.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-highlight/ebook.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-highlight/website.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-lunr/lunr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-lunr/search-lunr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-search/lunr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-search/search-engine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-search/search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-search/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook-plugin-sharing/buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/gitbook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/images/apple-touch-icon-precomposed-152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/gitbook/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/goods.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/bat_cmd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/ffmpeg/ffmpeg 下载网络 ts m3u8视频文件到本地.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/ffmpeg/ffmpeg 截取 音 视频.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/ffmpeg/ffmpeg 视频截取gif.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/ffmpeg/ffmpeg 视频格式转换.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/ffmpeg/视频加水印.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/git/git.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/git/git初始操作.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/git/git提交代码.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/mysql/MySQL导库导表操作.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/mysql/MySQL数据库操作命令.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/mysql/MySQL链接.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/mysql/mysql 常用shell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/mysql/mysql初始操作命令.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/mysql/mysql清空数据-重置主键.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/mysql/sql命令基本类.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/mysql/sql增删改查1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/mysql/sql数据类型详解.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/mysql/sql数据类型详解3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/mysql/sql数据设置.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/mysql/sql联表.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/mysql/基本增删改查sql命令.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/mysql/数据类型详解2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/number.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/wx.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/img/zfb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/search_index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_data.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal_data.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,17 +124,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1463">
-              <caret line="77" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="608">
+              <caret line="80" column="25" lean-forward="true" selection-start-line="80" selection-start-column="25" selection-end-line="80" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/book/index.html">
+        <entry file="file://$PROJECT_DIR$/personal_data.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="121" column="20" selection-start-line="121" selection-start-column="20" selection-end-line="121" selection-end-column="20" />
+            <state relative-caret-position="251">
+              <caret line="213" column="26" lean-forward="true" selection-start-line="213" selection-start-column="26" selection-end-line="213" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#font#0;n#h6#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#font#0;n#font#0;n#h6#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,6 +153,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/book/index.html" />
+        <option value="$PROJECT_DIR$/personal_data.html" />
       </list>
     </option>
   </component>
@@ -57,6 +171,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -64,16 +179,10 @@
               <item name="act-wz.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="act-wz.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="act-wz.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="act-wz.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -108,17 +217,18 @@
       <workItem from="1606439448057" duration="592000" />
       <workItem from="1606443183890" duration="281000" />
       <workItem from="1606714367770" duration="1734000" />
+      <workItem from="1619425008964" duration="608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5179000" />
+    <option name="totallyTimeSpent" value="5787000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="3" width="1842" height="1019" extended-state="1" />
+    <frame x="54" y="3" width="1842" height="1019" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25813693" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26094276" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -150,17 +260,28 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_book/index.html" />
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/book/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1463">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        <state relative-caret-position="-1976">
+          <caret line="121" column="4" lean-forward="true" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/book/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="121" column="20" selection-start-line="121" selection-start-column="20" selection-end-line="121" selection-end-column="20" />
+        <state relative-caret-position="608">
+          <caret line="80" column="25" lean-forward="true" selection-start-line="80" selection-start-column="25" selection-end-line="80" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal_data.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="213" column="26" lean-forward="true" selection-start-line="213" selection-start-column="26" selection-end-line="213" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#font#0;n#h6#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#font#0;n#font#0;n#h6#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
