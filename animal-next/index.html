@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Material Design风格卡片切换UI设计</title>
+	<link rel="stylesheet" type="text/css" href="css/reset.css" />
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<!--[if IE]>
+		<script src="http://libs.useso.com/js/html5shiv/3.7/html5shiv.min.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<article>
+		<div class="card">
+		  <div class="products">
+		    <div product-id="1" product-color="#D18B49" class="product active">
+		      <div class="thumbnail"><img src="img/Stag.svg"/></div>
+		      <h1 class="title">The Magnificent Stag</h1>
+		      <p class="description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+		    </div>
+		    <div product-id="2" product-color="#542F13" class="product">
+		      <div class="thumbnail"><img src="img/Bear.svg"/></div>
+		      <h1 class="title">The Courageous Bear</h1>
+		      <p class="description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+		    </div>
+		    <div product-id="3" product-color="#A5AAAE" class="product">
+		      <div class="thumbnail"><img src="img/Mouse.svg"/></div>
+		      <h1 class="title">The Sneaky Mouse</h1>
+		      <p class="description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+		    </div>
+		    <div product-id="4" product-color="#ED8D1F" class="product">
+		      <div class="thumbnail"><img src="img/Fox.svg"/></div>
+		      <h1 class="title">The Cunning Fox</h1>
+		      <p class="description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+		    </div>
+		    <div product-id="5" product-color="#C4C8CB" class="product">
+		      <div class="thumbnail"><img src="img/Rabbit.svg"/></div>
+		      <h1 class="title">The Jumpy Rabbit</h1>
+		      <p class="description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+		    </div>
+		  </div>
+		  <div class="footer"><a id="prev" href="#" ripple="" ripple-color="#666666" class="btn">Prev</a><a id="next" href="#" ripple="" ripple-color="#666666" class="btn">Next</a></div>
+		</div>
+	</article>
+	
+	<script src='js/stopExecutionOnTimeout.js?t=1' type="text/javascript"></script>
+	<script src="http://www.jqhtml.com/jquery/jquery-1.10.2.js"></script>
+	<script>window.jQuery || document.write('<script src="js/jquery-1.11.0.min.js"><\/script>')</script>
+	<script type="text/javascript">
+	$(document).ready(function () {
+	    var getProductHeight = $('.product.active').height();
+	    $('.products').css({ height: getProductHeight });
+	    function calcProductHeight() {
+	        getProductHeight = $('.product.active').height();
+	        $('.products').css({ height: getProductHeight });
+	    }
+	    function animateContentColor() {
+	        var getProductColor = $('.product.active').attr('product-color');
+	        $('body').css({ background: getProductColor });
+	        $('.title').css({ color: getProductColor });
+	        $('.btn').css({ color: getProductColor });
+	    }
+	    var productItem = $('.product'), productCurrentItem = productItem.filter('.active');
+	    $('#next').on('click', function (e) {
+	        e.preventDefault();
+	        var nextItem = productCurrentItem.next();
+	        productCurrentItem.removeClass('active');
+	        if (nextItem.length) {
+	            productCurrentItem = nextItem.addClass('active');
+	        } else {
+	            productCurrentItem = productItem.first().addClass('active');
+	        }
+	        calcProductHeight();
+	        animateContentColor();
+	    });
+	    $('#prev').on('click', function (e) {
+	        e.preventDefault();
+	        var prevItem = productCurrentItem.prev();
+	        productCurrentItem.removeClass('active');
+	        if (prevItem.length) {
+	            productCurrentItem = prevItem.addClass('active');
+	        } else {
+	            productCurrentItem = productItem.last().addClass('active');
+	        }
+	        calcProductHeight();
+	        animateContentColor();
+	    });
+	    $('[ripple]').on('click', function (e) {
+	        var rippleDiv = $('<div class="ripple" />'), rippleSize = 60, rippleOffset = $(this).offset(), rippleY = e.pageY - rippleOffset.top, rippleX = e.pageX - rippleOffset.left, ripple = $('.ripple');
+	        rippleDiv.css({
+	            top: rippleY - rippleSize / 2,
+	            left: rippleX - rippleSize / 2,
+	            background: $(this).attr('ripple-color')
+	        }).appendTo($(this));
+	        window.setTimeout(function () {
+	            rippleDiv.remove();
+	        }, 1900);
+	    });
+	});
+	</script>
+</body>
+</html>
